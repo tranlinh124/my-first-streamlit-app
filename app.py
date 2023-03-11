@@ -1,4 +1,6 @@
 import streamlit as st
+import plotly
+import sklearn
 
 st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
 
